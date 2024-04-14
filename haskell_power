@@ -10,3 +10,11 @@ element = do
 
 content :: Parser Html
 content = fmap Content $ many1 $ satisfy (\x -> x /='<')
+/* comment */
+/* comment */
+/* comment */
+/* comment */
+/* comment */
+/* comment */
+/* comment */
+/* comment */
